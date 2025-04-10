@@ -1,1 +1,0 @@
-import{c as a,o as t,w as o,e as s,ao as r}from"./index-CHWqN9gn.js";const u={__name:"About",setup(n){return(c,e)=>(t(),a(r,{class:"inner"},{default:o(()=>e[0]||(e[0]=[s("h1",null,"테스트",-1)])),_:1}))}};export{u as default};

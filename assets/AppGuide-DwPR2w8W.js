@@ -1,0 +1,1 @@
+import{c as a,o as t,w as s,e as o,ao as r}from"./index-BwiAbbgW.js";const c={__name:"AppGuide",setup(n){return(p,e)=>(t(),a(r,{class:"inner"},{default:s(()=>e[0]||(e[0]=[o("h1",null,"AppGuide",-1)])),_:1}))}};export{c as default};
